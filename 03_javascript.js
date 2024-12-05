@@ -21,7 +21,14 @@
 // "Minhaz " => true
 
 
-let someNumberr = 33
-let stringNumber = String(someNumberr)
-console.log(someNumberr);
-console.log(typeof stringNumber);
+// let someNumberr = 33
+// let stringNumber = String(someNumberr)
+// console.log(someNumberr);
+// console.log(typeof stringNumber);
+
+
+
+// ============================================== Operations ==============================================================
+let value = 3
+let negValue = -value
+console.log(negValue);
